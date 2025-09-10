@@ -5,8 +5,6 @@ import com.example.learncustomview.databinding.ActivityMainBinding
 
 class MainActivity : BaseActivity<ActivityMainBinding>(ActivityMainBinding::inflate) {
 
-
-
     override fun initData() {
 
     }
