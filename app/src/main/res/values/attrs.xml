@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Exercise2CustomView">
+        <attr name="circleColor" format="color"/>
+        <attr name="circleBlurColor" format="color"/>
+        <attr name="circleRadius" format="dimension"/>
+        <attr name="draggable" format="boolean"/>
+    </declare-styleable>
+
+</resources>
